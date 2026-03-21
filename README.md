@@ -43,6 +43,7 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 │   ├── 4340aaa95adaf306ddf062657fab185eef7d79ef.nq.gz
 │   ├── 464abcc522a6237054e9abf5c0c61ae72e51cd0f.nq.gz
 │   ├── 5fd08e5889e32c495e8759515c4961aed339c73d.nq.gz
+│   ├── 61d057853b26f18b7d38737685f9f2f2f21c8cd1.nq.gz
 │   ├── 6460c5bcec9cc500df7b9a52a792180f502ae4d9.nq.gz
 │   ├── 70b4e4ac69ef4247fbd6faa321bba12d6ab555c2.nq.gz
 │   ├── 76f59c6dc2914132f7ed22594c24920106caf73e.nq.gz
@@ -56,12 +57,14 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 │   ├── c9fcc001aa705963e0e5f387b8ea798039fe0279.nq.gz
 │   ├── d7c939c152f605ce9cbccd52c0f6cb2842eb5e0f.nq.gz
 │   ├── eb4f4d084530dd790b3978a51095613f64d4bedd.nq.gz
+│   ├── efcc06978a6f92192b3867caf245a9ab0acfc9dc.nq.gz
 │   └── f89c587382cfca46c51f64c55525c7bf292ee885.nq.gz
 ├── branch
 │   └── branch.nq.gz
 ├── commit
 │   └── commit.nq.gz
 ├── filetree
+│   ├── 6333b5a0b6ac1b80fe1e6915f1310d3018a0ab98.nq.gz
 │   └── b3b70368b86e269f1e53079862a708e1e377cfbb.nq.gz
 ├── issue
 │   └── issue.nq.gz
@@ -70,7 +73,7 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 └── tag
     └── tag.nq.gz
 
-8 directories, 26 files
+8 directories, 29 files
 ```
 
 | Directory | What it contains |
