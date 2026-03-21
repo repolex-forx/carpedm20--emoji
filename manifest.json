@@ -297,6 +297,21 @@
         "blob/012949c8246e1422920263dd68d6eba7edd778a5.nq.gz",
         "blob/92b944ff18e84d9dd5ef9f292011d0773d579b9a.nq.gz",
         "blob/83376853e7bd76db7f3cbe29663f348b4e905cdd.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/70e7ba12dfaf3449a5d445b1e7de4ae2c6245d19.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/70e7ba12dfaf3449a5d445b1e7de4ae2c6245d19.nq.gz",
+      "repolex": "aggregate/repolex/70e7ba12dfaf3449a5d445b1e7de4ae2c6245d19.nq.gz",
+      "dep": "dep/70e7ba12dfaf3449a5d445b1e7de4ae2c6245d19.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "emoji",
+          "packageVersion": "2.9.0",
+          "githubOrg": "carpedm20",
+          "githubRepo": "emoji",
+          "githubCommit": "184648397b8be8bfb5be62424f302a8cd4f88f39"
+        }
       ]
     },
     {
