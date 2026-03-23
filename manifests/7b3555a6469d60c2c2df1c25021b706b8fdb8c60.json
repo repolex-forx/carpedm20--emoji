@@ -1,0 +1,36 @@
+{
+  "commit": "7b3555a6469d60c2c2df1c25021b706b8fdb8c60",
+  "files": {
+    "repolex": {
+      "path": "aggregate/repolex/7b3555a6469d60c2c2df1c25021b706b8fdb8c60.nq.gz",
+      "size_bytes": 566957
+    },
+    "dep": {
+      "path": "dep/7b3555a6469d60c2c2df1c25021b706b8fdb8c60.nq.gz",
+      "size_bytes": 556
+    }
+  },
+  "dependencies": [
+    {
+      "packageName": "django",
+      "packageVersion": "6.0.3",
+      "githubOrg": "django",
+      "githubRepo": "django",
+      "githubCommit": "a0d3bdb5b0a22cdbb4d3f7e5eabd7fe0f7311f68"
+    },
+    {
+      "packageName": "emoji",
+      "packageVersion": "2.9.0",
+      "githubOrg": "carpedm20",
+      "githubRepo": "emoji",
+      "githubCommit": "184648397b8be8bfb5be62424f302a8cd4f88f39"
+    },
+    {
+      "packageName": "pytest",
+      "packageVersion": "9.0.2",
+      "githubOrg": "pytest-dev",
+      "githubRepo": "pytest",
+      "githubCommit": "3d10b5148e03eb82b3ee29181dbdc73cf82699e2"
+    }
+  ]
+}
