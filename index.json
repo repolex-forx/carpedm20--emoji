@@ -1,5 +1,11 @@
 {
   "org": "carpedm20",
   "repo": "emoji",
-  "versions": []
+  "versions": [
+    {
+      "commit": "b3b70368b86e269f1e53079862a708e1e377cfbb",
+      "tag": "",
+      "parsed_at": ""
+    }
+  ]
 }
