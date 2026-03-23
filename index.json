@@ -3,6 +3,11 @@
   "repo": "emoji",
   "versions": [
     {
+      "commit": "1a6a3cbcafcbafaed7771e2f86d9cd09509071b7",
+      "tag": "",
+      "parsed_at": ""
+    },
+    {
       "commit": "6333b5a0b6ac1b80fe1e6915f1310d3018a0ab98",
       "tag": "",
       "parsed_at": ""
