@@ -1035,6 +1035,28 @@
         "blob/6f96a80f81be56a7884d7eb85c80f6c1ca82548a.nq.gz",
         "blob/92b944ff18e84d9dd5ef9f292011d0773d579b9a.nq.gz",
         "blob/83376853e7bd76db7f3cbe29663f348b4e905cdd.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/89197c1c275bd493011ba36cb503df6096be00aa.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/89197c1c275bd493011ba36cb503df6096be00aa.nq.gz",
+      "repolex": "aggregate/repolex/89197c1c275bd493011ba36cb503df6096be00aa.nq.gz",
+      "dep": "dep/89197c1c275bd493011ba36cb503df6096be00aa.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "emoji",
+          "packageVersion": "2.9.0",
+          "githubOrg": "carpedm20",
+          "githubRepo": "emoji",
+          "githubCommit": "184648397b8be8bfb5be62424f302a8cd4f88f39"
+        },
+        {
+          "packageName": "django",
+          "packageVersion": "6.0.3",
+          "githubOrg": "django",
+          "githubRepo": "django",
+          "githubCommit": "a0d3bdb5b0a22cdbb4d3f7e5eabd7fe0f7311f68"
+        }
       ]
     },
     {
