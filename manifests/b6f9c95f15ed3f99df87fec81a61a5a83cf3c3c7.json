@@ -1,0 +1,22 @@
+{
+  "commit": "b6f9c95f15ed3f99df87fec81a61a5a83cf3c3c7",
+  "files": {
+    "repolex": {
+      "path": "aggregate/repolex/b6f9c95f15ed3f99df87fec81a61a5a83cf3c3c7.nq.gz",
+      "size_bytes": 212210
+    },
+    "dep": {
+      "path": "dep/b6f9c95f15ed3f99df87fec81a61a5a83cf3c3c7.nq.gz",
+      "size_bytes": 351
+    }
+  },
+  "dependencies": [
+    {
+      "packageName": "emoji",
+      "packageVersion": "2.9.0",
+      "githubOrg": "carpedm20",
+      "githubRepo": "emoji",
+      "githubCommit": "184648397b8be8bfb5be62424f302a8cd4f88f39"
+    }
+  ]
+}
