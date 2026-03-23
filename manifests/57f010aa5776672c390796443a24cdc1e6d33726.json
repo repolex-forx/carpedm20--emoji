@@ -1,0 +1,29 @@
+{
+  "commit": "57f010aa5776672c390796443a24cdc1e6d33726",
+  "files": {
+    "repolex": {
+      "path": "aggregate/repolex/57f010aa5776672c390796443a24cdc1e6d33726.nq.gz",
+      "size_bytes": 443890
+    },
+    "dep": {
+      "path": "dep/57f010aa5776672c390796443a24cdc1e6d33726.nq.gz",
+      "size_bytes": 450
+    }
+  },
+  "dependencies": [
+    {
+      "packageName": "django",
+      "packageVersion": "6.0.3",
+      "githubOrg": "django",
+      "githubRepo": "django",
+      "githubCommit": "a0d3bdb5b0a22cdbb4d3f7e5eabd7fe0f7311f68"
+    },
+    {
+      "packageName": "emoji",
+      "packageVersion": "2.9.0",
+      "githubOrg": "carpedm20",
+      "githubRepo": "emoji",
+      "githubCommit": "184648397b8be8bfb5be62424f302a8cd4f88f39"
+    }
+  ]
+}
