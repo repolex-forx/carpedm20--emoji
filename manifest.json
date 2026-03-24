@@ -1772,6 +1772,35 @@
         "blob/032983bffcc3650afe78e5ab2a23367fb19acd4c.nq.gz",
         "blob/eeb2b26e686f0fff79998f273e31e13c5f824dc1.nq.gz",
         "blob/5e8303ac17f5814bb20133a3049048987f86ef9c.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/cf923b238136ec82b2060416a2de2c023189c684.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/cf923b238136ec82b2060416a2de2c023189c684.nq.gz",
+      "repolex": "aggregate/repolex/cf923b238136ec82b2060416a2de2c023189c684.nq.gz",
+      "dep": "dep/cf923b238136ec82b2060416a2de2c023189c684.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "emoji",
+          "packageVersion": "2.9.0",
+          "githubOrg": "carpedm20",
+          "githubRepo": "emoji",
+          "githubCommit": "184648397b8be8bfb5be62424f302a8cd4f88f39"
+        },
+        {
+          "packageName": "pytest",
+          "packageVersion": "9.0.2",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest",
+          "githubCommit": "3d10b5148e03eb82b3ee29181dbdc73cf82699e2"
+        },
+        {
+          "packageName": "django",
+          "packageVersion": "6.0.3",
+          "githubOrg": "django",
+          "githubRepo": "django",
+          "githubCommit": "a0d3bdb5b0a22cdbb4d3f7e5eabd7fe0f7311f68"
+        }
       ]
     }
   ],
