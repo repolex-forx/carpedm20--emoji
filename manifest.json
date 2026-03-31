@@ -1680,24 +1680,25 @@
       "dependencies": [
         {
           "packageName": "coverage",
-          "packageVersion": "7.9.2",
-          "githubOrg": "nedbat",
+          "ecosystem": "PYPI",
+          "version": "7.13.5",
+          "githubOrg": "coveragepy",
           "githubRepo": "coveragepy",
-          "githubCommit": "6e774923cf042751feb78036fcd46909d263be06"
+          "githubCommit": "c88da144eef8cf78424331e5cbbde3e002eef43f",
+          "githubTag": "7.13.5",
+          "githubUrl": "https://github.com/coveragepy/coveragepy",
+          "source": "build_file:requirements.txt"
         },
         {
           "packageName": "coveralls",
-          "packageVersion": "4.1.0",
+          "ecosystem": "PYPI",
+          "version": "4.1.0",
           "githubOrg": "TheKevJames",
           "githubRepo": "coveralls-python",
-          "githubCommit": "7dbb2c46709c1da3d730dfd926de5994f942e19d"
-        },
-        {
-          "packageName": "emoji",
-          "packageVersion": "2.9.0",
-          "githubOrg": "carpedm20",
-          "githubRepo": "emoji",
-          "githubCommit": "184648397b8be8bfb5be62424f302a8cd4f88f39"
+          "githubCommit": "7dbb2c46709c1da3d730dfd926de5994f942e19d",
+          "githubTag": "4.1.0",
+          "githubUrl": "https://github.com/TheKevJames/coveralls-python",
+          "source": "build_file:requirements.txt"
         }
       ]
     },
